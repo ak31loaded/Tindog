@@ -1,0 +1,179 @@
+#title
+{
+    background-color: #ff4c68;
+    padding-bottom: 7%;
+}
+.container-fluid
+{
+    padding: 3% 15%;
+}
+h1 {
+    font-size: 3rem;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    padding-top: 10%  ;
+    padding-bottom: 7%;
+    color: white;
+  
+}
+h2
+{
+    padding-top: 3%;
+    font-family:'Montserrat' , sans-serif; 
+}
+p
+{
+    color: #8f8f8f;
+}
+h3{
+    font-family: 'Ubuntu';
+    font-weight: bold;
+}
+#features
+{
+
+    background-color: white;
+    position: relative;
+}
+.navbar-brand
+{
+    font-family: 'Ubuntu';
+    font-size: 2em;
+}
+.navbar
+{
+    padding-top: 2%;
+    padding-bottom: 4%;
+}
+.nav-link
+{
+    font-size: 1.2rem;
+    font-weight: 100;
+}
+.row
+{
+    size: 100%;
+}
+.btn
+{
+    margin: 2%;
+}
+.dog-img
+{
+    width: 26%;
+    transform: rotate(25deg);
+    position: absolute;
+    
+}
+.container
+{
+    padding: 7% 5%;
+    text-align: center;
+}
+.icon
+{
+    font-size: 3rem;
+    color: #ef8172;
+    padding: 4%;
+}
+.icon:hover
+{
+    color: #ff4c68; 
+}
+.col
+{
+    padding: 1%;
+    size: 100;
+}
+#testimonials
+{
+    background-color: #ef8172;
+    text-align: center;
+    
+}
+.dog
+
+{
+    border-radius: 100%;
+    width: 25%;
+    padding: 5%;
+
+}
+.carousel-item
+{
+    padding: 5%;   
+}
+.logo
+{
+    width: 23%;
+    padding: 2% 4%;
+}
+#press
+{
+    background-color: #ef8172;
+    text-align: center;
+}
+#pricing
+{
+    text-align: center;
+}
+.btm
+{
+    padding: 1% 13%;
+}
+.card
+{
+    padding: 3%;
+}
+.price
+{
+    margin:  3% 10%;
+}
+.price-col
+{
+    margin: 0% 2%;
+}
+#cta
+{
+    background-color: #ff4c68;
+    text-align: center;
+}
+#cta h1
+{
+    padding: 3rem 15%;
+}
+#cta .btn
+{
+    margin-bottom: 3rem;
+}
+#footer
+{
+    text-align: center;
+    padding: 2rem;
+}
+.footer-icon
+{
+    padding: 2% 1%;
+}
+@media only screen and (max-width: 1120px)
+{
+    .dog-img
+    {
+    width: 40%;
+    transform: rotate(0);
+    position: static;
+    }
+    #title
+    {
+        text-align: center;
+    }
+
+}
+.social-icons
+{
+    color: rgb(98, 97, 97);
+}
+.social-icons :hover
+{
+    color: black;
+}
